@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi there, I'm Affan Wajid
 
-<!--
-**Affan-wajid/Affan-wajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | Blazor | C# | ASP.NET Core | Web API | ASP.NET MVC
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+I'm an enthusiastic and passionate Computer science student currently in my 8th semester.  
+I enjoy building Web APIs, Web Applications, and Desktop Applications using modern technologies like .NET Core and Blazor, with a strong focus on clean architecture, performance, and maintainable code.
+
+---
+
+## 🛠️ Technologies & Skills
+
+**Languages:**  
+C#, C++, JavaScript, HTML, CSS  
+
+**Frameworks:**  
+ASP.NET Core, ASP.NET MVC, Web API, Blazor, React.js
+
+**Database:**  
+MS SQL Server  
+
+**Others:**  
+AJAX, jQuery, Git  
+
+**Architectures:**  
+Three-Layer Architecture, Clean Architecture  
+
+**Design Patterns:**  
+Repository Pattern  
+
+**Tools:**  
+Atlassian Suite (Trello), Visual Studio, GitHub  
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science (BSCS)**  
+
+📍 Gomal University, Dera Ismail Khan  
+📆 Session: 2022 – 2026 (8th Semester – Ongoing)  
+📊 CGPA: 3.9  
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: [affanwajid212002@gmail.com](mailto:affanwajid212002@gmail.com)  
+
+💼 LinkedIn:  
+[https://linkedin.com/in/asim-khan-5317b8356](https://www.linkedin.com/in/affan-wajid-608729275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+
+🧑‍💻 GitHub:  
+https://github.com/Affan-wajid  
+
+---
+
+## 💡 Fun Fact
+
+I believe in writing clean, maintainable code and continuously improving my skills to contribute to impactful projects 🚀  
+
+---
+
+⭐️ Thanks for visiting my profile! Feel free to connect with me or explore my projects.
+
+---
