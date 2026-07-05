@@ -32,7 +32,7 @@ Three-Layer Architecture, Clean Architecture
 Repository Pattern  
 
 **Tools:**  
-Atlassian Suite (Trello), Visual Studio, GitHub  
+Visual Studio, GitHub  
 
 ---
 
@@ -41,8 +41,8 @@ Atlassian Suite (Trello), Visual Studio, GitHub
 **Bachelor of Science in Computer Science (BSCS)**  
 
 📍 Gomal University, Dera Ismail Khan  
-📆 Session: 2022 – 2026 (8th Semester – Ongoing)  
-📊 CGPA: 3.9  
+📆 Session: 2022 – 2026  
+📊 CGPA: 3.99  
 
 ---
 
