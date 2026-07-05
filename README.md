@@ -50,10 +50,8 @@ Visual Studio, GitHub
 
 📧 Email: [affanwajid212002@gmail.com](mailto:affanwajid212002@gmail.com)  
 
-💼 LinkedIn:  
-[[https://linkedin.com/in/asim-khan-5317b8356](https://www.linkedin.com/in/affan-wajid-608729275/)]
-🧑‍💻 GitHub:  
-https://github.com/Affan-wajid  
+💼 LinkedIn:  [[https://www.linkedin.com/in/affan-wajid-608729275/](https://www.linkedin.com/in/affan-wajid-608729275/)]
+🧑‍💻 GitHub:  https://github.com/Affan-wajid  
 
 ---
 
